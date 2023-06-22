@@ -2,6 +2,7 @@
  <h3 align="center">A passionate Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+
 - 🔭 I’m currently working on Supply Chain Analysis
 
 - 🌱 I’m currently learning **MySQL, Python**
