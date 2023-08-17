@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-- 🔭 I’m currently working on Supply Chain Analysis
+- 🔭 I’m currently learning SAS 
 
 - 🌱 I’m currently learning **MySQL, Python**
 
