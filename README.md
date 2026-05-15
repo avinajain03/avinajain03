@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, System Design, Microservices**
 
-- 💬 Ask me about **Java, Spring Boot, Angular, Microservices, REST APIs**
+- 💬 Ask me about **Java, Spring Boot, Angular, Microservices, REST APIs, Apache Kafka**
 
 - 👨‍💻 All of my projects are available at  
   https://avinajain03.wixsite.com/myportfolio
