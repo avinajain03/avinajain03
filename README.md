@@ -116,6 +116,7 @@ height="30" width="40" />
 - Spring Boot
 - REST APIs
 - Microservices
+- Apache Kafka
 
 **Database**
 - MongoDB
